@@ -1,6 +1,8 @@
 # 💫 About Me:
 ✨<br>Hi, I’m @MaazRaeen — an engineering student with a passion for web development and machine learning.<br><br>🔭 I'm currently working on: A marketing analytics dashboard using React, TailwindCSS, and Python-based recommendation engines.<br>🤝 I'm looking to collaborate on: Web and ML projects that solve real-world problems.<br>💬 I'm looking for help with: Deploying and scaling ML models efficiently on the cloud.<br>🌱 I'm currently learning: Advanced machine learning concepts and MLOps tools like Docker and Kubernetes and DSA.<br>💡 Ask me about: React, Python, machine learning basics, and front-end design.<br>🎉 Fun fact: I can juggle programming and game — but I’m way better at one of them! 😄
 
+## 
+![Profile Views](https://komarev.com/ghpvc/?username=KrishGoya1&color=blueviolet&style=for-the-badge)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/gvVP6qDdRG) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Maaz__510) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/maazraeen) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/MaazRaeen42044) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:maazraeen42@gmail.com) 
@@ -15,7 +17,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MaazRaeen&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-![Profile Views](https://komarev.com/ghpvc/?username=KrishGoya1&color=blueviolet&style=for-the-badge)
+
 
 
 ---
