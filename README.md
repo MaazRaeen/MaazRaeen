@@ -15,6 +15,9 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MaazRaeen&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+![Profile Views](https://komarev.com/ghpvc/?username=KrishGoya1&color=blueviolet&style=for-the-badge)
+
+
 ---
 [![](https://visitcount.itsvg.in/api?id=MaazRaeen&icon=0&color=0)](https://visitcount.itsvg.in)
 
