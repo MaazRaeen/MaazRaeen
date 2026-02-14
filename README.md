@@ -1,26 +1,75 @@
-# 💫 About Me:
-✨<br>Hi, I’m @MaazRaeen — an engineering student with a passion for web development and machine learning.<br><br>🔭 I'm currently working on: A marketing analytics dashboard using React, TailwindCSS, and Python-based recommendation engines.<br>🤝 I'm looking to collaborate on: Web and ML projects that solve real-world problems.<br>💬 I'm looking for help with: Deploying and scaling ML models efficiently on the cloud.<br>🌱 I'm currently learning: Advanced machine learning concepts and MLOps tools like Docker and Kubernetes and DSA.<br>💡 Ask me about: React, Python, machine learning basics, and front-end design.<br>🎉 Fun fact: I can juggle programming and game — but I’m way better at one of them! 😄
+# 👋 Hi, I'm Maaz Raeen  
 
-## 
-![Profile Views](https://komarev.com/ghpvc/?username=KrishGoya1&color=blueviolet&style=for-the-badge)
+🎓 Engineering Student | 💻 Web Developer | 🤖 Machine Learning Enthusiast  
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/gvVP6qDdRG) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Maaz__510) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/maazraeen) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/MaazRaeen42044) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:maazraeen42@gmail.com) 
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MaazRaeen&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=MaazRaeen&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MaazRaeen&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MaazRaeen&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-
-
+I build intelligent, scalable web applications powered by modern frontend technologies and ML-driven insights.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=MaazRaeen&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 What I'm Working On
+🔭 Marketing Analytics Dashboard  
+Built with **React + TailwindCSS** and powered by **Python-based recommendation systems** to deliver actionable insights.
+
+---
+
+## 🤝 Open to Collaborate On
+- Full-stack web applications  
+- ML-powered products  
+- Real-world problem-solving projects  
+
+---
+
+## 🧠 Currently Learning
+- Advanced Machine Learning  
+- MLOps (Docker, Kubernetes, CI/CD)  
+- Data Structures & Algorithms  
+
+---
+
+## 💡 Ask Me About
+- React & Frontend Design  
+- Python & ML Basics  
+- Model Building & Deployment  
+
+---
+
+## 🛠 Tech Stack
+
+### 👨‍💻 Languages
+Java • Python • JavaScript • TypeScript • HTML5  
+
+### 🌐 Frontend
+React • TailwindCSS • Flutter  
+
+### 🔙 Backend
+Node.js • Flask  
+
+### 🗄 Databases
+MongoDB • MySQL  
+
+### 🤖 Machine Learning
+TensorFlow • PyTorch • Scikit-learn • Keras • Pandas • NumPy • MLflow  
+
+### ☁ Deployment
+Vercel • Netlify • Docker (Learning)  
+
+---
+
+## 📊 GitHub Stats
+![Maaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaazRaeen&theme=dark&hide_border=true&count_private=true)
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=MaazRaeen&theme=dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MaazRaeen&theme=dark&hide_border=true&layout=compact)
+
+---
+
+## 🌐 Connect With Me
+- 💼 LinkedIn: https://linkedin.com/in/maazraeen  
+- 📸 Instagram: https://instagram.com/Maaz__510  
+- 🐦 X: https://x.com/MaazRaeen42044  
+- 📧 Email: maazraeen42@gmail.com  
+
+---
+
+⚡ Fun Fact: I can juggle programming and gaming — but one of them gets more commits 😉
