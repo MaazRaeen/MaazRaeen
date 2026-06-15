@@ -97,6 +97,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaazRaeen&layout=compact&theme=radical" height="150">
 </p>
 
+![GitHub Streak](https://streak-stats.demolab.com?user=MaazRaeen&theme=dark)
+
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=MaazRaeen&theme=radical">
 </p>
