@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Machine+Learning+Explorer;Building+Real+World+Projects;Open+to+Internships&center=true&width=500&height=50">
 </p>
 
----
+----
 
 ## 👨‍💻 About Me
 - 🎓 B.Tech Engineering Student  
